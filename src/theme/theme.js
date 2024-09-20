@@ -5,7 +5,7 @@ import {
     yellowThemegirl,eduBlack,eduBlue,eduGreen,eduOrange,eduPink,eduPurple,eduRed,eduYellow,expBlack,expBlue,expGreen,expOrange,
     expPink,expPurple,expRed,expYellow,contactsBlack,contactsBlue,contactsGreen,contactsOrange,contactsPink,contactsPurple,
     contactsRed,contactsYellow
-} from './images'
+} from './images';
 
 
 export const greenThemeLight = {
