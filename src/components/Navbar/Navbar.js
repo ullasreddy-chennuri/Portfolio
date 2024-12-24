@@ -105,11 +105,11 @@ function Navbar() {
         },
         drawerLinks: {
             fontFamily: 'var(--primaryFont)',
-            width: '50%',
-            fontSize: '1.3rem',
+            width: '75%',
+            fontSize: '1.2rem',
             fontWeight: 600,
             [t.breakpoints.down('sm')]: {
-                fontSize: '1.125rem',
+                fontSize: '1.025rem',
             },
         },
         drawerIcon: {
@@ -287,23 +287,23 @@ function Navbar() {
 
                         
 
-                        {/* <Fade left>
+                        <Fade left>
                             <NavLink
-                                to='/#services'
+                                to='/#achievments'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
                             >
                                 <div className={classes.drawerItem}>
-                                    <BsFillGearFill
+                                    <HiDocumentText
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Services
+                                        Achievements
                                     </span>
                                 </div>
                             </NavLink>
-                        </Fade> */}
+                        </Fade>
 
                        
 

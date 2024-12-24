@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name is Ullas Reddy Chennuri. I'm a Software Engineer based in Buffalo, USA.",
-    description2: "I am an energetic, highly motivated Master's student specializing in AI/ML at SUNY, Buffalo. I am actively seeking full-time opportunities in Software Engineering, focusing on Java Full Stack Development and Data Science. With experience in leading projects, building scalable applications, and developing advanced ML models, I am eager to contribute to a dynamic team and drive impactful results",
+    description1: "My name is Ullas Reddy Chennuri. I'm a Software Engineer based in California, USA.",
+    description2: "I am an energetic and highly motivated professional with a Master's in Computer Science from SUNY, Buffalo. I am actively exploring full-time opportunities in Software Engineering, specializing in Full Stack Development, Machine Learning, and cloud technologies. With hands-on experience in building scalable applications, developing advanced ML models, and leveraging AWS services to design efficient and robust solutions, I am eager to contribute to innovative teams and drive meaningful results.",
     image: 2  
 }

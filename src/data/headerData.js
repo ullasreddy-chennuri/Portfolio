@@ -6,7 +6,7 @@ import image from '../assets/png/image.jpg'
 export const headerData = {
     name: 'Ullas Reddy Chennuri',
     title: "Software Engineer",
-    desciption:"Passionate AI/ML enthusiast with strong Java and Python skills, adept in data structures, algorithms, and statistical analysis. Experienced in Java Full Stack Development, machine learning models and automated data preprocessing. Skilled in leveraging LLMs. Committed to continuous learning, teamwork, and leadership.",
+    desciption:"Versatile Software Engineer with expertise in Java, .NET, Angular, AWS, and AI/ML. Skilled in building robust full-stack applications, developing intelligent ML models, and leveraging cloud technologies for scalable solutions. Passionate about creating impactful, data-driven systems through innovation, teamwork, and continuous improvement.",
     image: image,
     resumePdf: resume
 }
