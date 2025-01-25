@@ -38,7 +38,7 @@ I am Ullas Reddy Chennuri, a Master's student specializing in Artificial Intelli
 
 ## Projects
 ### 1. **Role-Based Access Control System**
-- Built a web application demonstrating authentication and role-based access using .NET Core and Angular.
+- Built a web application demonstrating authentication and role-based access using Spring Boot and Angular.
 - Key Features: Spring Security, JWT Tokenization, Angular Guards.
 
 ### 2. **Image Aging and Deaging**
