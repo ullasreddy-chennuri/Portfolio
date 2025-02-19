@@ -8,23 +8,9 @@ export const experienceData = [
     },
     {
         id: 2,
-        company: 'Under Prof. Dr. Shamsad Parvin',
+        company: 'University at Buffalo',
         jobtitle: 'Research Student',
         startYear: '2024/Jan',
         endYear: '2024/Jun'
-    },
-    {
-        id: 3,
-        company: ' Workspot Inc',
-        jobtitle: 'Software Engineer L1',
-        startYear: '2022/Aug',
-        endYear: '2023/Aug'
-    },
-    {
-        id: 4,
-        company: 'LeanPro',
-        jobtitle: 'Software Engineer',
-        startYear: '2021/May',
-        endYear: '2022/Aug'
     }
 ]
