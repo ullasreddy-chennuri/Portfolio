@@ -2,7 +2,7 @@ export const experienceData = [
     {
         id: 1,
         company: 'Ascendion',
-        jobtitle: 'Junior Machine Learning Engineer - Intern',
+        jobtitle: 'Junior Software Engineer - Intern',
         startYear: '2024/Jun',
         endYear: '2024/Aug'
     },
